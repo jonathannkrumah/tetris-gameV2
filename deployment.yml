@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: tetris
-        image: dockeradmin419/tetris-game-v1:V1
+        image: dockeradmin419/tetris-game-v2:V2
         ports:
         - containerPort: 3000   # Use port 3000
 
